@@ -1,0 +1,3 @@
+Apple
+Pear
+Text in newname2
