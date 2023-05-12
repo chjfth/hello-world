@@ -1,0 +1,3 @@
+[submodule "AmHotkey"]
+	path = AmHotkey
+	url = git@github.com:chjfth/AmHotkey.git
